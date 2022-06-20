@@ -6,8 +6,8 @@
 //
 
 
-#import <XCTest/XCTest.h>
-#import "HRCoder.h"
+@import XCTest;
+@import HRCoder;
 
 
 @interface Model : NSObject <NSCoding>
